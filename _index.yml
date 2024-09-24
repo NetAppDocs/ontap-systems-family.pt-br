@@ -1,0 +1,60 @@
+---
+product-family:
+  title: Documentação dos sistemas de hardware ONTAP
+  lead: Os sistemas de storage de hardware ONTAP AFF, FAS e ASA da NetApp oferecem
+    serviços de gerenciamento de dados de aplicações e storage para aplicações de
+    alta largura de banda que precisam de storage all-flash simples, fácil de gerenciar
+    e com confiabilidade de nível empresarial.
+  summary: Os sistemas de storage de hardware ONTAP AFF, FAS e ASA da NetApp oferecem
+    serviços de gerenciamento de dados de aplicações e storage para aplicações de
+    alta largura de banda que precisam de storage all-flash simples, fácil de gerenciar
+    e com confiabilidade de nível empresarial.
+  sidebarlinks:
+  - title: Tudo
+    tags: tag_all
+    class: active
+  - title: Comece agora
+    tags: tag_get_started
+  - title: Hardware do sistema
+    tags: tag_storage_hardware
+  - title: Atualização do sistema
+    tags: tag_storage_upgrade
+  tiles:
+  - title: Saiba mais sobre os sistemas de hardware ONTAP
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: Saiba mais sobre os sistemas de hardware ONTAP.
+    tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
+  - title: Sistemas AFF
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/aff-landing/index.html"
+    summary: Instale e mantenha seus sistemas AFF.
+  - title: Sistemas ASA
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/allsan-landing/index.html"
+    summary: Instale e mantenha seus sistemas ASA.
+  - title: Sistemas FAS
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/fas/index.html"
+    summary: Instale e mantenha seus sistemas FAS.
+  - title: Sistemas ASA R2
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/asa-r2/index.html"
+    summary: Instale e use seus sistemas ASA R2.
+    tags: tag_all, tag_storage_hardware
+  - title: Atualizar os sistemas de hardware ONTAP
+    icon: "./media/upgrade.png"
+    url: "../ontap-systems-upgrade/index.html"
+    summary: Atualize seus sistemas de hardware ONTAP.
+    tags: tag_all, tag_storage_upgrade
+  - title: Switches de cluster e armazenamento
+    icon: "./media/switch.png"
+    url: "../ontap-systems-switches/index.html"
+    summary: Instalar, atualizar e manter o cluster e os switches de armazenamento.
+    tags: tag_all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: Instale e atualize ou expanda suas configurações do MetroCluster e execute
+      a recuperação de desastres.
+    tags: tag_all, tag_storage_upgrade

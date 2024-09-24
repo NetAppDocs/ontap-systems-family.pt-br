@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="b05f1c4b5e26f3eac9dee0aad263ed75" category="summary">A família de sistemas de storage ONTAP da NetApp foi projetada para aplicações empresariais que precisam de storage fácil de gerenciar, rápido e seguro com confiabilidade de nível empresarial e acesso contínuo aos dados.</block>
+  <block id="4931551222aa917801cbe975fd254f58" category="doc">Saiba mais sobre os sistemas de hardware ONTAP</block>
+  <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">Os sistemas de hardware ONTAP da NetApp foram projetados para aplicações empresariais que precisam de storage fácil de gerenciar, rápido e seguro, com confiabilidade de nível empresarial e acesso contínuo aos dados.</block>
+  <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">Os sistemas de hardware ONTAP da NetApp estão disponíveis em configurações all-flash (AFF) e flash híbrido e somente HDD (FAS), com a opção de escolher a combinação de Mídia de storage que melhor atende aos seus requisitos de performance, capacidade e custo.</block>
+  <block id="3732021d709f401480670fe0967338ce" category="paragraph">É possível agrupar diferentes combinações de modelos para executar workloads mistos no mesmo sistema de storage e construir seu ambiente adicionando novas gerações de storage com as tecnologias mais recentes.</block>
+  <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">Sistemas All-Flash FAS (AFF)</block>
+  <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">Os sistemas AFF baseados em NVMe são uma plataforma robusta, com escalabilidade horizontal e projetada para ambientes virtualizados e podem ser implantados como sistema independente ou camada de alta performance em uma configuração NetApp ONTAP.</block>
+  <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">Dando suporte a uma variedade de workloads, especialmente VDI e bancos de dados que exigem alta performance, baixa latência e confiabilidade, as configurações all-flash FAS são a escolha ideal para aplicações essenciais aos negócios.</block>
+  <block id="a6ebe77e11a2ed7374acaf9354f56274" category="inline-link">Leia o datasheet do AFF A-Series</block>
+  <block id="86764b58cbaaccdc83e278793e95e301" category="list-text"><block ref="86764b58cbaaccdc83e278793e95e301" category="inline-link-rx"></block></block>
+  <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">Leia o datasheet da série C da AFF</block>
+  <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">Sistemas All-Flash SAN Array (ASA)</block>
+  <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">O array all-flash SAN (ASA) da NetApp oferece uma experiência de SAN dedicada e simplificada que fornece disponibilidade de dados contínua para bancos de dados empresariais essenciais e outros workloads SAN por meio do protocolo FCP ou iSCSI.</block>
+  <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">Sistemas ASA R2</block>
+  <block id="0ab1a7883d0399cbaf77a2e38633a6ea" category="paragraph">Os novos sistemas NetApp ASA R2 (ASA A1K, ASA A70 e ASA A90) fornecem uma solução unificada de hardware e software que cria uma experiência simplificada específica para as necessidades dos clientes somente de SAN.</block>
+  <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">Em um sistema ASA R2, o software ONTAP e o Gerenciador de sistemas são otimizados para oferecer suporte a funcionalidades essenciais de SAN, ao mesmo tempo em que removem a visibilidade de recursos e funções não compatíveis em ambientes SAN.</block>
+  <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">Leia a folha de dados do ASA</block>
+  <block id="7a876ada0a90e5a61dfa89b62a3504c3" category="list-text"><block ref="7a876ada0a90e5a61dfa89b62a3504c3" category="inline-link-rx"></block></block>
+  <block id="3cf42084274355921caa718c1294f55d" category="inline-link-macro">Novos sistemas ASA R2 em comparação com os sistemas ASA</block>
+  <block id="783b26e83ca5758a4e3f7d5064ab895f" category="list-text">Saiba mais sobre o. <block ref="4fb12820a3f220b3942114edd9f55791" category="inline-link-macro-rx"></block></block>
+  <block id="e5e09031843479ef9ef8cbbd4c2f404c" category="inline-link">NetApp Hardware Universe</block>
+  <block id="c2040c0e10f6d53403a0b1509ae5c9aa" category="list-text">Consulte o suporte de configuração completo e as limitações dos sistemas ASA e ASA R2 em<block ref="bb9c67b5a4c15a85b5e6aa6c9afd0285" category="inline-link-rx"></block></block>
+  <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">Sistemas flash híbrido FAS</block>
+  <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">Os sistemas flash híbrido FAS são uma plataforma de hardware criada para ambientes SAN e nas compartilhados e consolidados que exigem gerenciamento de rich data e fácil conexão com a nuvem.</block>
+  <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">Com seu hardware altamente disponível, os sistemas flash híbrido FAS atendem de forma econômica às demandas de workload, combinando a combinação ideal de flash e unidades giratórias tradicionais. Ele é ideal para backup e retenção, consolidação de aplicativos de negócios gerais e conteúdo distribuído.</block>
+  <block id="acf507a3ae5ebfd2f3cabb186667801d" category="inline-link">Leia a folha de dados do FAS</block>
+  <block id="8469b2ef88f6cdd582299050db34afcd" category="paragraph"><block ref="8469b2ef88f6cdd582299050db34afcd" category="inline-link-rx"></block></block>
+  <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
+  <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">Os sistemas de storage de hardware da ONTAP configurados com a funcionalidade MetroCluster da ONTAP fornecem uma solução que combina clustering baseado em array com replicação síncrona para oferecer disponibilidade contínua e sem perda de dados. A configuração do MetroCluster duplica imediatamente todos os dados essenciais a cada transação, fornecendo acesso ininterrupto a aplicações e dados.</block>
+  <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">Diferentemente das soluções de replicação de dados padrão, o MetroCluster funciona de forma otimizada com o ambiente de host para fornecer disponibilidade contínua de dados e, ao mesmo tempo, eliminar a necessidade de criar e manter scripts de failover complicados.</block>
+  <block id="8154432bf2e5d56a941b669e6d519e84" category="inline-link">Saiba mais sobre o MetroCluster</block>
+  <block id="4afbd6676439611f5218628ce8029c8c" category="paragraph"><block ref="4afbd6676439611f5218628ce8029c8c" category="inline-link-rx"></block></block>
+  <block id="efd44736fee0b29831bc101f834f9425" category="section-title">Software ONTAP</block>
+  <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">O software de gerenciamento de dados ONTAP é o software de storage em cluster que alimenta os sistemas de hardware da ONTAP. Com um namespace global compatível com até 24 nós de hardware de todos os tipos, o software ONTAP dá suporte ao storage unificado (bloco e arquivo). Isso possibilita a consolidação significativa do workload que você pode gerenciar usando a GUI do System Manager do ONTAP.</block>
+  <block id="b485702592e0498441691e048f6de254" category="inline-link">Leia a folha de dados do software ONTAP</block>
+  <block id="a6866cb5f6ba1f0846112dff240434fb" category="paragraph"><block ref="a6866cb5f6ba1f0846112dff240434fb" category="inline-link-rx"></block></block>
+  <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="list-title">Para mais informações</block>
+  <block id="b00c4b4112816929de0eb8a79af19e7f" category="inline-link">Documentos de sistemas de hardware ONTAP</block>
+  <block id="8272024ec9920ab1aa65d02ba8144574" category="list-text"><block ref="8272024ec9920ab1aa65d02ba8144574" category="inline-link-rx"></block></block>
+  <block id="af8a69aa12393a4d9b6992e884f1c919" category="inline-link">MetroCluster docs</block>
+  <block id="33123ba2709c3a1044173954d31c8bda" category="list-text"><block ref="33123ba2709c3a1044173954d31c8bda" category="inline-link-rx"></block></block>
+  <block id="c8db31d0d38042ea4fd10dd6bdfd347e" category="inline-link">ONTAP docs</block>
+  <block id="329e6107dab8bc5916ad0475212c00e8" category="list-text"><block ref="329e6107dab8bc5916ad0475212c00e8" category="inline-link-rx"></block></block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">Avisos legais fornecem acesso a declarações de direitos autorais, marcas registradas, patentes e muito mais.</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Avisos legais</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Direitos de autor</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marcas comerciais</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp, o logotipo DA NetApp e as marcas listadas na página de marcas comerciais da NetApp são marcas comerciais da NetApp, Inc. Outros nomes de produtos e empresas podem ser marcas comerciais de seus respetivos proprietários.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Patentes</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Uma lista atual de patentes de propriedade da NetApp pode ser encontrada em:</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Política de privacidade</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Código aberto</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Os arquivos de aviso fornecem informações sobre direitos autorais de terceiros e licenças usadas no software NetApp.</block>
+  <block id="27e4f654e31a54c18c3f94846eb8fcc2" category="inline-link">Aviso para compartimentos de disco</block>
+  <block id="0c8d7a4e0e5ab5d34b549a9af84add17" category="paragraph"><block ref="0c8d7a4e0e5ab5d34b549a9af84add17" category="inline-link-rx"></block></block>
+  <block id="1f90335d79116dc043d2eb600c05f7dd" category="sidebar">Os sistemas de storage de hardware ONTAP AFF, FAS e ASA da NetApp oferecem serviços de gerenciamento de dados de aplicações e storage para aplicações de alta largura de banda que precisam de storage all-flash simples, fácil de gerenciar e com confiabilidade de nível empresarial.</block>
+  <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="sidebar">Documentação dos sistemas de hardware ONTAP</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tudo</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Comece agora</block>
+  <block id="9e2ef56d3728315bb8dc93124d72f8cd" category="sidebar">Hardware do sistema</block>
+  <block id="0bcaacd75b850fde02c6d9384f639e41" category="sidebar">Atualização do sistema</block>
+  <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">Saiba mais sobre os sistemas de hardware ONTAP.</block>
+  <block id="f3585daa539c5917b4fedd0eb7efb3f2" category="sidebar">Sistemas AFF</block>
+  <block id="1506cda28c07c10192d406e1db57812e" category="sidebar">Instale e mantenha seus sistemas AFF.</block>
+  <block id="6476573ba5b973ad8ea01c57f5b30267" category="sidebar">Sistemas ASA</block>
+  <block id="b2a7c20a808912eb755b7a188e7bda5a" category="sidebar">Instale e mantenha seus sistemas ASA.</block>
+  <block id="d5d4923aa83e46af2152de920946ba41" category="sidebar">Sistemas FAS</block>
+  <block id="e97842d9580e37ddd15a6e4ac02f92b0" category="sidebar">Instale e mantenha seus sistemas FAS.</block>
+  <block id="c06e33eeff899719a660389c287d9b14" category="sidebar">Instale e use seus sistemas ASA R2.</block>
+  <block id="b1e8d525b133e89e64ed87c6c7291779" category="sidebar">Atualizar os sistemas de hardware ONTAP</block>
+  <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">Atualize seus sistemas de hardware ONTAP.</block>
+  <block id="cce8f24137d8ba188a996f1ac50fd1c9" category="sidebar">Switches de cluster e armazenamento</block>
+  <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">Instalar, atualizar e manter o cluster e os switches de armazenamento.</block>
+  <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
+  <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">Instale e atualize ou expanda suas configurações do MetroCluster e execute a recuperação de desastres.</block>
+</blocks>
