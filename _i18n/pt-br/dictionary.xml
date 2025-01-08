@@ -44,27 +44,6 @@
   <block id="33123ba2709c3a1044173954d31c8bda" category="list-text"><block ref="33123ba2709c3a1044173954d31c8bda" category="inline-link-rx"></block></block>
   <block id="c8db31d0d38042ea4fd10dd6bdfd347e" category="inline-link">ONTAP docs</block>
   <block id="329e6107dab8bc5916ad0475212c00e8" category="list-text"><block ref="329e6107dab8bc5916ad0475212c00e8" category="inline-link-rx"></block></block>
-  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">Avisos legais fornecem acesso a declarações de direitos autorais, marcas registradas, patentes e muito mais.</block>
-  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Avisos legais</block>
-  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Direitos de autor</block>
-  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
-  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
-  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
-  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marcas comerciais</block>
-  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp, o logotipo DA NetApp e as marcas listadas na página de marcas comerciais da NetApp são marcas comerciais da NetApp, Inc. Outros nomes de produtos e empresas podem ser marcas comerciais de seus respetivos proprietários.</block>
-  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
-  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
-  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Patentes</block>
-  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Uma lista atual de patentes de propriedade da NetApp pode ser encontrada em:</block>
-  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
-  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
-  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Política de privacidade</block>
-  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
-  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
-  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Código aberto</block>
-  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Os arquivos de aviso fornecem informações sobre direitos autorais de terceiros e licenças usadas no software NetApp.</block>
-  <block id="27e4f654e31a54c18c3f94846eb8fcc2" category="inline-link">Aviso para compartimentos de disco</block>
-  <block id="0c8d7a4e0e5ab5d34b549a9af84add17" category="paragraph"><block ref="0c8d7a4e0e5ab5d34b549a9af84add17" category="inline-link-rx"></block></block>
   <block id="1f90335d79116dc043d2eb600c05f7dd" category="sidebar">Os sistemas de storage de hardware ONTAP AFF, FAS e ASA da NetApp oferecem serviços de gerenciamento de dados de aplicações e storage para aplicações de alta largura de banda que precisam de storage all-flash simples, fácil de gerenciar e com confiabilidade de nível empresarial.</block>
   <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="sidebar">Documentação dos sistemas de hardware ONTAP</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tudo</block>
@@ -72,17 +51,12 @@
   <block id="9e2ef56d3728315bb8dc93124d72f8cd" category="sidebar">Hardware do sistema</block>
   <block id="0bcaacd75b850fde02c6d9384f639e41" category="sidebar">Atualização do sistema</block>
   <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">Saiba mais sobre os sistemas de hardware ONTAP.</block>
-  <block id="f3585daa539c5917b4fedd0eb7efb3f2" category="sidebar">Sistemas AFF</block>
-  <block id="1506cda28c07c10192d406e1db57812e" category="sidebar">Instale e mantenha seus sistemas AFF.</block>
-  <block id="6476573ba5b973ad8ea01c57f5b30267" category="sidebar">Sistemas ASA</block>
-  <block id="b2a7c20a808912eb755b7a188e7bda5a" category="sidebar">Instale e mantenha seus sistemas ASA.</block>
-  <block id="d5d4923aa83e46af2152de920946ba41" category="sidebar">Sistemas FAS</block>
-  <block id="e97842d9580e37ddd15a6e4ac02f92b0" category="sidebar">Instale e mantenha seus sistemas FAS.</block>
-  <block id="c06e33eeff899719a660389c287d9b14" category="sidebar">Instale e use seus sistemas ASA R2.</block>
   <block id="b1e8d525b133e89e64ed87c6c7291779" category="sidebar">Atualizar os sistemas de hardware ONTAP</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">Atualize seus sistemas de hardware ONTAP.</block>
   <block id="cce8f24137d8ba188a996f1ac50fd1c9" category="sidebar">Switches de cluster e armazenamento</block>
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">Instalar, atualizar e manter o cluster e os switches de armazenamento.</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">Instale e atualize ou expanda suas configurações do MetroCluster e execute a recuperação de desastres.</block>
+  <block id="61c17d0c22614e250efe81202fb7ad15" category="sidebar">Instalar e manter sistemas de hardware ONTAP</block>
+  <block id="fb2155b80abb48917d9629adfc2cf42d" category="sidebar">Instalar e manter sistemas de hardware ONTAP.</block>
 </blocks>
