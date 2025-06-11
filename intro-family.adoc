@@ -25,7 +25,7 @@ Os sistemas AFF baseados em NVMe são uma plataforma robusta, com escalabilidade
 
 Dando suporte a uma variedade de workloads, especialmente VDI e bancos de dados que exigem alta performance, baixa latência e confiabilidade, as configurações all-flash FAS são a escolha ideal para aplicações essenciais aos negócios.
 
-* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Leia o datasheet do AFF A-Series"^]
+* https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["Leia o datasheet do AFF A-Series"^]
 * https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Leia o datasheet da série C da AFF"^]
 
 

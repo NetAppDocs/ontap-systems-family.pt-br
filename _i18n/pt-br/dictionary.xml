@@ -9,7 +9,6 @@
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">Os sistemas AFF baseados em NVMe são uma plataforma robusta, com escalabilidade horizontal e projetada para ambientes virtualizados e podem ser implantados como sistema independente ou camada de alta performance em uma configuração NetApp ONTAP.</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">Dando suporte a uma variedade de workloads, especialmente VDI e bancos de dados que exigem alta performance, baixa latência e confiabilidade, as configurações all-flash FAS são a escolha ideal para aplicações essenciais aos negócios.</block>
   <block id="a6ebe77e11a2ed7374acaf9354f56274" category="inline-link">Leia o datasheet do AFF A-Series</block>
-  <block id="86764b58cbaaccdc83e278793e95e301" category="list-text"><block ref="86764b58cbaaccdc83e278793e95e301" category="inline-link-rx"></block></block>
   <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">Leia o datasheet da série C da AFF</block>
   <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
   <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">Sistemas All-Flash SAN Array (ASA)</block>
@@ -59,4 +58,5 @@
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">Instale e atualize ou expanda suas configurações do MetroCluster e execute a recuperação de desastres.</block>
   <block id="61c17d0c22614e250efe81202fb7ad15" category="sidebar">Instalar e manter sistemas de hardware ONTAP</block>
   <block id="fb2155b80abb48917d9629adfc2cf42d" category="sidebar">Instalar e manter sistemas de hardware ONTAP.</block>
+  <block id="c1334bdf7221f4c6be726ce308889f18" category="list-text"><block ref="c1334bdf7221f4c6be726ce308889f18" category="inline-link-rx"></block></block>
 </blocks>
