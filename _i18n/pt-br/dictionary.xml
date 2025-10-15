@@ -3,7 +3,6 @@
   <block id="b05f1c4b5e26f3eac9dee0aad263ed75" category="summary">A família de sistemas de storage ONTAP da NetApp foi projetada para aplicações empresariais que precisam de storage fácil de gerenciar, rápido e seguro com confiabilidade de nível empresarial e acesso contínuo aos dados.</block>
   <block id="4931551222aa917801cbe975fd254f58" category="doc">Saiba mais sobre os sistemas de hardware ONTAP</block>
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">Os sistemas de hardware ONTAP da NetApp foram projetados para aplicações empresariais que precisam de storage fácil de gerenciar, rápido e seguro, com confiabilidade de nível empresarial e acesso contínuo aos dados.</block>
-  <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">Os sistemas de hardware ONTAP da NetApp estão disponíveis em configurações all-flash (AFF) e flash híbrido e somente HDD (FAS), com a opção de escolher a combinação de Mídia de storage que melhor atende aos seus requisitos de performance, capacidade e custo.</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">É possível agrupar diferentes combinações de modelos para executar workloads mistos no mesmo sistema de storage e construir seu ambiente adicionando novas gerações de storage com as tecnologias mais recentes.</block>
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">Sistemas All-Flash FAS (AFF)</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">Os sistemas AFF baseados em NVMe são uma plataforma robusta, com escalabilidade horizontal e projetada para ambientes virtualizados e podem ser implantados como sistema independente ou camada de alta performance em uma configuração NetApp ONTAP.</block>
@@ -14,7 +13,6 @@
   <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">Sistemas All-Flash SAN Array (ASA)</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">O array all-flash SAN (ASA) da NetApp oferece uma experiência de SAN dedicada e simplificada que fornece disponibilidade de dados contínua para bancos de dados empresariais essenciais e outros workloads SAN por meio do protocolo FCP ou iSCSI.</block>
   <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">Sistemas ASA R2</block>
-  <block id="0ab1a7883d0399cbaf77a2e38633a6ea" category="paragraph">Os novos sistemas NetApp ASA R2 (ASA A1K, ASA A70 e ASA A90) fornecem uma solução unificada de hardware e software que cria uma experiência simplificada específica para as necessidades dos clientes somente de SAN.</block>
   <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">Em um sistema ASA R2, o software ONTAP e o Gerenciador de sistemas são otimizados para oferecer suporte a funcionalidades essenciais de SAN, ao mesmo tempo em que removem a visibilidade de recursos e funções não compatíveis em ambientes SAN.</block>
   <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">Leia a folha de dados do ASA</block>
   <block id="7a876ada0a90e5a61dfa89b62a3504c3" category="list-text"><block ref="7a876ada0a90e5a61dfa89b62a3504c3" category="inline-link-rx"></block></block>
@@ -43,7 +41,6 @@
   <block id="33123ba2709c3a1044173954d31c8bda" category="list-text"><block ref="33123ba2709c3a1044173954d31c8bda" category="inline-link-rx"></block></block>
   <block id="c8db31d0d38042ea4fd10dd6bdfd347e" category="inline-link">ONTAP docs</block>
   <block id="329e6107dab8bc5916ad0475212c00e8" category="list-text"><block ref="329e6107dab8bc5916ad0475212c00e8" category="inline-link-rx"></block></block>
-  <block id="1f90335d79116dc043d2eb600c05f7dd" category="sidebar">Os sistemas de storage de hardware ONTAP AFF, FAS e ASA da NetApp oferecem serviços de gerenciamento de dados de aplicações e storage para aplicações de alta largura de banda que precisam de storage all-flash simples, fácil de gerenciar e com confiabilidade de nível empresarial.</block>
   <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="sidebar">Documentação dos sistemas de hardware ONTAP</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tudo</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Comece agora</block>
@@ -59,4 +56,13 @@
   <block id="61c17d0c22614e250efe81202fb7ad15" category="sidebar">Instalar e manter sistemas de hardware ONTAP</block>
   <block id="fb2155b80abb48917d9629adfc2cf42d" category="sidebar">Instalar e manter sistemas de hardware ONTAP.</block>
   <block id="c1334bdf7221f4c6be726ce308889f18" category="list-text"><block ref="c1334bdf7221f4c6be726ce308889f18" category="inline-link-rx"></block></block>
+  <block id="94aedb8c9e1130ca4bec7685c2d4b852" category="paragraph">Os sistemas de hardware ONTAP da NetApp estão disponíveis em configurações all-flash e flash híbrido e somente HDD, dando a você a opção de escolher a combinação de mídia de armazenamento que melhor atende aos seus requisitos de desempenho, capacidade e custo.</block>
+  <block id="e9d7397e9772df2e11071d57657f4b22" category="section-title">AFX</block>
+  <block id="92aad19229e2fec4b79aaedee2d2e16b" category="paragraph">O NetApp AFX é um sistema de armazenamento all-flash desagregado de nível empresarial que oferece todos os benefícios de desempenho de sistemas de arquivos paralelos e soluções de armazenamento de IA de nicho, mas em uma plataforma de nível empresarial que é simples, segura e totalmente integrada.</block>
+  <block id="271d89ad236b08f12870d2390f8e6d86" category="inline-link">Leia a ficha técnica da AFX</block>
+  <block id="8ce666a5f2725e171f7d317a1f7afce8" category="list-text"><block ref="8ce666a5f2725e171f7d317a1f7afce8" category="inline-link-rx"></block></block>
+  <block id="fb5c18a654f6c13352d46548b1f57acd" category="inline-link">Saiba mais sobre o armazenamento AFX</block>
+  <block id="8ee84128290dd12026974dacb6404ed8" category="list-text"><block ref="8ee84128290dd12026974dacb6404ed8" category="inline-link-rx"></block></block>
+  <block id="fe1c154e079a54d2e08bfd97c768549d" category="paragraph">Os novos sistemas NetApp ASA r2 (ASA A1K, ASA A70, ASA A90, ASA A20, ASA A30, ASA A50 e C30) oferecem uma solução unificada de hardware e software que cria uma experiência simplificada específica para as necessidades dos clientes somente SAN.</block>
+  <block id="8a7195a48274621b19dc4fd921470095" category="sidebar">Os sistemas de armazenamento de hardware ONTAP da NetApp oferecem serviços de gerenciamento de dados de aplicativos e armazenamento para aplicativos de alta largura de banda que precisam de armazenamento all-flash simples, fácil de gerenciar e com confiabilidade de nível empresarial.</block>
 </blocks>
