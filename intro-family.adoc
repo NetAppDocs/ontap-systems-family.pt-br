@@ -50,7 +50,7 @@ Os novos sistemas NetApp ASA r2 (ASA A1K, ASA A70, ASA A90, ASA A20, ASA A30, AS
 
 Em um sistema ASA R2, o software ONTAP e o Gerenciador de sistemas são otimizados para oferecer suporte a funcionalidades essenciais de SAN, ao mesmo tempo em que removem a visibilidade de recursos e funções não compatíveis em ambientes SAN.
 
-* https://www.netapp.com/data-storage/all-flash-san-storage-array/["Leia a folha de dados do ASA"^]
+* https://www.netapp.com/pdf.html?item=/media/85736-ds-4254-asa.pdf["Leia a folha de dados do ASA"^]
 * Saiba mais sobre o. link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["Novos sistemas ASA R2 em comparação com os sistemas ASA"^]
 * Consulte o suporte de configuração completo e as limitações dos sistemas ASA e ASA R2 em https://hwu.netapp.com/["NetApp Hardware Universe"^]
 
