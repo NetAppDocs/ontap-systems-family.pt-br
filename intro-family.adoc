@@ -19,6 +19,7 @@ Os sistemas de hardware ONTAP da NetApp estão disponíveis em configurações a
 
 
 
+[[all-flash-fas-aff-systems]]
 == Sistemas All-Flash FAS (AFF)
 
 Os sistemas AFF baseados em NVMe são uma plataforma robusta, com escalabilidade horizontal e projetada para ambientes virtualizados e podem ser implantados como sistema independente ou camada de alta performance em uma configuração NetApp ONTAP.
@@ -26,11 +27,12 @@ Os sistemas AFF baseados em NVMe são uma plataforma robusta, com escalabilidade
 Dando suporte a uma variedade de workloads, especialmente VDI e bancos de dados que exigem alta performance, baixa latência e confiabilidade, as configurações all-flash FAS são a escolha ideal para aplicações essenciais aos negócios.
 
 * https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["Leia o datasheet do AFF A-Series"^]
-* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Leia o datasheet da série C da AFF"^]
+* https://www.netapp.com/pdf.html?item=/media/81583-ds-4240-aff-c-series.pdf["Leia o datasheet da série C da AFF"^]
 
 
 
 
+[[afx]]
 == AFX
 
 O NetApp AFX é um sistema de armazenamento all-flash desagregado de nível empresarial que oferece todos os benefícios de desempenho de sistemas de arquivos paralelos e soluções de armazenamento de IA de nicho, mas em uma plataforma de nível empresarial que é simples, segura e totalmente integrada.
@@ -41,6 +43,7 @@ O NetApp AFX é um sistema de armazenamento all-flash desagregado de nível empr
 
 
 
+[[all-flash-san-array-asa-systems]]
 == Sistemas All-Flash SAN Array (ASA)
 
 O array all-flash SAN (ASA) da NetApp oferece uma experiência de SAN dedicada e simplificada que fornece disponibilidade de dados contínua para bancos de dados empresariais essenciais e outros workloads SAN por meio do protocolo FCP ou iSCSI.
@@ -57,6 +60,7 @@ Em um sistema ASA R2, o software ONTAP e o Gerenciador de sistemas são otimizad
 
 
 
+[[fas-hybrid-flash-systems]]
 == Sistemas flash híbrido FAS
 
 Os sistemas flash híbrido FAS são uma plataforma de hardware criada para ambientes SAN e nas compartilhados e consolidados que exigem gerenciamento de rich data e fácil conexão com a nuvem.
@@ -67,6 +71,7 @@ https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Leia a folha de da
 
 
 
+[[metrocluster]]
 == MetroCluster
 
 Os sistemas de storage de hardware da ONTAP configurados com a funcionalidade MetroCluster da ONTAP fornecem uma solução que combina clustering baseado em array com replicação síncrona para oferecer disponibilidade contínua e sem perda de dados. A configuração do MetroCluster duplica imediatamente todos os dados essenciais a cada transação, fornecendo acesso ininterrupto a aplicações e dados.
@@ -77,11 +82,12 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Saiba mais sobre o
 
 
 
+[[ontap-software]]
 == Software ONTAP
 
 O software de gerenciamento de dados ONTAP é o software de storage em cluster que alimenta os sistemas de hardware da ONTAP. Com um namespace global compatível com até 24 nós de hardware de todos os tipos, o software ONTAP dá suporte ao storage unificado (bloco e arquivo). Isso possibilita a consolidação significativa do workload que você pode gerenciar usando a GUI do System Manager do ONTAP.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Leia a folha de dados do software ONTAP"^]
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231-ontap-unified-data-storage-management.pdf["Leia a folha de dados do software ONTAP"^]
 
 .Para mais informações
 * https://docs.netapp.com/us-en/ontap-systems/index.html["Documentos de sistemas de hardware ONTAP"^]
