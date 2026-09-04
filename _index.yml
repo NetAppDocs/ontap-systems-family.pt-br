@@ -21,27 +21,22 @@ product-family:
     tags: tag_storage_upgrade
   tiles:
   - title: Saiba mais sobre os sistemas de hardware ONTAP
-    icon: "./media/family.png"
     url: intro-family.html
     summary: Saiba mais sobre os sistemas de hardware ONTAP.
     tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
   - title: Instalar e manter sistemas de hardware ONTAP
-    icon: "./media/icon-onprem.png"
     url: "../ontap-systems/index.html"
     summary: Instalar e manter sistemas de hardware ONTAP.
     tags: tag_all, tag_storage_hardware
   - title: Atualizar os sistemas de hardware ONTAP
-    icon: "./media/upgrade.png"
     url: "../ontap-systems-upgrade/index.html"
     summary: Atualize seus sistemas de hardware ONTAP.
     tags: tag_all, tag_storage_upgrade
   - title: Switches de cluster e armazenamento
-    icon: "./media/switch.png"
     url: "../ontap-systems-switches/index.html"
     summary: Instalar, atualizar e manter o cluster e os switches de armazenamento.
     tags: tag_all, tag_storage_hardware, tag_storage_upgrade
   - title: ONTAP MetroCluster
-    icon: "./media/metrocluster.png"
     url: "../ontap-metrocluster/index.html"
     summary: Instale e atualize ou expanda suas configurações do MetroCluster e execute
       a recuperação de desastres.
